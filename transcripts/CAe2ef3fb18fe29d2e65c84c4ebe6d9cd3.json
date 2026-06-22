@@ -1,0 +1,81 @@
+{
+  "call_sid": "CAe2ef3fb18fe29d2e65c84c4ebe6d9cd3",
+  "scenario": "reschedule",
+  "turns": [
+    {
+      "t": "00:14:52",
+      "speaker": "AGENT",
+      "text": "Esta llamada puede ser grabada para motivos de calidad y entrenamiento. Para espa\u00f1ol, oprima el 2."
+    },
+    {
+      "t": "00:15:00",
+      "speaker": "PATIENT",
+      "text": "Hi, no, this is Priya Shah. I'm actually calling because I need to reschedule my appointment that I have for this Thursday."
+    },
+    {
+      "t": "00:15:00",
+      "speaker": "AGENT",
+      "text": "Thanks for calling pivot point orthopedics part of pretty good AI am I speaking with Daniel"
+    },
+    {
+      "t": "00:15:12",
+      "speaker": "AGENT",
+      "text": "Please tell me your date of birth. Please tell me your date of birth."
+    },
+    {
+      "t": "00:15:12",
+      "speaker": "PATIENT",
+      "text": "Sure, my date of birth is September 30th, 1995."
+    },
+    {
+      "t": "00:15:29",
+      "speaker": "PATIENT",
+      "text": "Yes, that\u2019s correct."
+    },
+    {
+      "t": "00:15:31",
+      "speaker": "AGENT",
+      "text": "I have your name as Priya Shah and your date of birth as September 30th, 1995. Is that correct?"
+    },
+    {
+      "t": "00:15:39",
+      "speaker": "AGENT",
+      "text": "Do you want to use the phone number on file to look up your record?"
+    },
+    {
+      "t": "00:15:39",
+      "speaker": "PATIENT",
+      "text": "Yes, that works for me."
+    },
+    {
+      "t": "00:15:58",
+      "speaker": "PATIENT",
+      "text": "Yes, that\u2019s correct. That\u2019s my number."
+    },
+    {
+      "t": "00:15:59",
+      "speaker": "AGENT",
+      "text": "please tell me the phone number on your account. I have your number as 929-433-7408 and your date of birth as September 30, 1995. Is that correct?"
+    },
+    {
+      "t": "00:16:11",
+      "speaker": "AGENT",
+      "text": "Connecting you to a representative. Please wait."
+    },
+    {
+      "t": "00:16:11",
+      "speaker": "PATIENT",
+      "text": "Okay, I'll hold."
+    },
+    {
+      "t": "00:16:16",
+      "speaker": "AGENT",
+      "text": "Hello. You've reached the Pretty Good AI test line. Goodbye."
+    },
+    {
+      "t": "00:16:17",
+      "speaker": "PATIENT",
+      "text": "Wait, I\u2019m a bit confused. I need to reschedule my appointment. Are you able to help with that?"
+    }
+  ]
+}

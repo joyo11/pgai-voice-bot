@@ -1,0 +1,35 @@
+Call: CA11bd45c3db5309505ecfec581c868ab4
+Scenario: edge_weekend
+==================================================
+[01:07:30] AGENT: Esta llamada puede ser grabada para motivos de calidad y entrenamiento. Para Español, oprima el 2.
+[01:07:38] PATIENT: Hi, no, this is Tom Becker. I'm calling to set up an appointment for this Sunday at 10 a.m.
+[01:07:38] AGENT: Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI. Am I speaking with Daniel?
+[01:07:49] PATIENT: Sure, my date of birth is June 6, 1990.
+[01:07:49] AGENT: Please tell me your date of birth.
+[01:08:00] AGENT: Please tell me your full name, first and last.
+[01:08:02] PATIENT: My full name is Tom Becker, and my date of birth is 06/06/1990.
+[01:08:02] AGENT: and your day of birth.
+[01:08:19] PATIENT: Yes, that's correct.
+[01:08:20] AGENT: I have your name as Tom Becker and your date of birth is June 6th, 1990. Please confirm that is correct.
+[01:08:29] AGENT: Do you want to use a phone number on file for the lookup?
+[01:08:30] PATIENT: Yes, please go ahead and use the phone number on file.
+[01:08:39] PATIENT: Oh, I was hoping you could look it up on your end. Let me know if you need me to provide it.
+[01:08:40] AGENT: please give me the phone number you have on file.
+[01:08:49] AGENT: please provide the phone number you have on file.
+[01:08:50] PATIENT: Alright, the phone number I have is 555-234-7890.
+[01:09:12] PATIENT: Yes, that's correct. Now, can we go ahead and lock in that appointment for this Sunday at 10 a.m.?
+[01:09:12] AGENT: I have your phone number as 555-234-7890 and your date of birth as June 6th, 1990. Is that correct?
+[01:09:24] PATIENT: Sure, no problem, I'll hold.
+[01:09:25] AGENT: I still need to finish the check-in first. Please hold for a moment.
+[01:09:31] PATIENT: Alright, I'm still here.
+[01:09:32] AGENT: One moment.
+[01:09:38] PATIENT: Got it, I'll wait.
+[01:09:39] AGENT: Please hold for a moment.
+[01:09:44] PATIENT: No problem, I'm here.
+[01:09:44] AGENT: Please hold
+[01:09:50] PATIENT: Sure, I'm holding.
+[01:09:51] AGENT: Please hold for a moment.
+[01:09:56] PATIENT: Alright, I'm still here.
+[01:09:57] AGENT: Please hold.
+[01:10:09] AGENT: I can't proceed further right now, but I can make sure our clinic support team follows up with you.
+[01:10:10] PATIENT: Actually, I'd really like to get that appointment for this Sunday at 10 a.m.

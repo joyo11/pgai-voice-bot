@@ -1,0 +1,106 @@
+{
+  "call_sid": "CA4281741774de0b72ab6c8703ffc82f5b",
+  "scenario": "refill",
+  "turns": [
+    {
+      "t": "00:03:46",
+      "speaker": "PATIENT",
+      "text": "Hi, this is the medical practice. How can I help you today?"
+    },
+    {
+      "t": "00:03:47",
+      "speaker": "AGENT",
+      "text": "Esta llamada puede ser grabada para motivos de calidad y entrenamiento. Para Espa\u00f1ol, oprima el 2."
+    },
+    {
+      "t": "00:03:48",
+      "speaker": "PATIENT",
+      "text": "Of course, I'm here to help. What can I do for you today?"
+    },
+    {
+      "t": "00:03:48",
+      "speaker": "AGENT",
+      "text": "Thanks for watching."
+    },
+    {
+      "t": "00:03:50",
+      "speaker": "PATIENT",
+      "text": "Hi, how can I assist you with your medication or any other needs today?"
+    },
+    {
+      "t": "00:03:51",
+      "speaker": "AGENT",
+      "text": "Have a great day. Bye."
+    },
+    {
+      "t": "00:03:52",
+      "speaker": "PATIENT",
+      "text": "Sure, let\u2019s get started. Could you tell me the name of the medication you need a refill for?"
+    },
+    {
+      "t": "00:03:53",
+      "speaker": "AGENT",
+      "text": "How can I help you?"
+    },
+    {
+      "t": "00:03:54",
+      "speaker": "AGENT",
+      "text": "Bye."
+    },
+    {
+      "t": "00:03:55",
+      "speaker": "PATIENT",
+      "text": "Hi there, thanks for calling. Can you let me know what medication you need refilled?"
+    },
+    {
+      "t": "00:04:05",
+      "speaker": "PATIENT",
+      "text": "I need a refill on my lisinopril. Can you send it to my pharmacy?"
+    },
+    {
+      "t": "00:04:06",
+      "speaker": "AGENT",
+      "text": "I can help with that. Which medication would you like refilled?"
+    },
+    {
+      "t": "00:04:18",
+      "speaker": "PATIENT",
+      "text": "Wait, I'm a bit worried about running out. Can you tell me when it'll be ready at the pharmacy?"
+    },
+    {
+      "t": "00:04:18",
+      "speaker": "AGENT",
+      "text": "I'll document this and let our clinic support team know. They will get back to you as soon as they can."
+    },
+    {
+      "t": "00:04:43",
+      "speaker": "PATIENT",
+      "text": "Okay, I got it. But can you give me an idea of how long it usually takes for them to approve a refill?"
+    },
+    {
+      "t": "00:04:44",
+      "speaker": "AGENT",
+      "text": "I'm not able to see refill status or pharmacy timing from here. I've already sent this to the clinic support team and they'll review it as soon as they can. If you're down to your last dose, please contact your pharmacy now and ask if they can provide an emergency supply."
+    },
+    {
+      "t": "00:05:09",
+      "speaker": "PATIENT",
+      "text": "Alright, I\u2019ll reach out to my pharmacy and keep an eye out for the update. Thanks for your help."
+    },
+    {
+      "t": "00:05:10",
+      "speaker": "AGENT",
+      "text": "Usually, refill requests are reviewed as soon as possible, but the exact timing can vary. Since this is already with the clinic support team, they'll handle it in order and update you as soon as they can. If you're about to run out today, it's best to call your pharmacy and let them know while the request is being reviewed."
+    },
+    {
+      "t": "00:05:19",
+      "speaker": "AGENT",
+      "text": "You're welcome. Have a good day."
+    },
+    {
+      "t": "00:05:19",
+      "speaker": "PATIENT",
+      "text": "Thanks, you too. Take care."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+Call: CA4281741774de0b72ab6c8703ffc82f5b
+Scenario: refill
+==================================================
+[00:03:46] PATIENT: Hi, this is the medical practice. How can I help you today?
+[00:03:47] AGENT: Esta llamada puede ser grabada para motivos de calidad y entrenamiento. Para Español, oprima el 2.
+[00:03:48] PATIENT: Of course, I'm here to help. What can I do for you today?
+[00:03:48] AGENT: Thanks for watching.
+[00:03:50] PATIENT: Hi, how can I assist you with your medication or any other needs today?
+[00:03:51] AGENT: Have a great day. Bye.
+[00:03:52] PATIENT: Sure, let’s get started. Could you tell me the name of the medication you need a refill for?
+[00:03:53] AGENT: How can I help you?
+[00:03:54] AGENT: Bye.
+[00:03:55] PATIENT: Hi there, thanks for calling. Can you let me know what medication you need refilled?
+[00:04:05] PATIENT: I need a refill on my lisinopril. Can you send it to my pharmacy?
+[00:04:06] AGENT: I can help with that. Which medication would you like refilled?
+[00:04:18] PATIENT: Wait, I'm a bit worried about running out. Can you tell me when it'll be ready at the pharmacy?
+[00:04:18] AGENT: I'll document this and let our clinic support team know. They will get back to you as soon as they can.
+[00:04:43] PATIENT: Okay, I got it. But can you give me an idea of how long it usually takes for them to approve a refill?
+[00:04:44] AGENT: I'm not able to see refill status or pharmacy timing from here. I've already sent this to the clinic support team and they'll review it as soon as they can. If you're down to your last dose, please contact your pharmacy now and ask if they can provide an emergency supply.
+[00:05:09] PATIENT: Alright, I’ll reach out to my pharmacy and keep an eye out for the update. Thanks for your help.
+[00:05:10] AGENT: Usually, refill requests are reviewed as soon as possible, but the exact timing can vary. Since this is already with the clinic support team, they'll handle it in order and update you as soon as they can. If you're about to run out today, it's best to call your pharmacy and let them know while the request is being reviewed.
+[00:05:19] AGENT: You're welcome. Have a good day.
+[00:05:19] PATIENT: Thanks, you too. Take care.

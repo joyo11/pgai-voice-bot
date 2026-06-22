@@ -1,0 +1,166 @@
+{
+  "call_sid": "CA29f5cab9ab2a595e76a0d0592c36443b",
+  "scenario": "edge_interrupt",
+  "turns": [
+    {
+      "t": "01:15:53",
+      "speaker": "PATIENT",
+      "text": "Hi, I\u2019m calling because I need a refill on my"
+    },
+    {
+      "t": "01:15:55",
+      "speaker": "AGENT",
+      "text": "Esta llamada puede ser grabada para motivos de calidad y entrenamiento. Para Espa\u00f1ol, oprima el 2."
+    },
+    {
+      "t": "01:16:00",
+      "speaker": "AGENT",
+      "text": "Thanks for calling pivot point orthopedics part of pretty good AI and I speak you with Daniel"
+    },
+    {
+      "t": "01:16:01",
+      "speaker": "PATIENT",
+      "text": "Oh, hey, no, this is Kevin Wu. Actually, I was hoping to get a refill on my prescription\u2014wait, you know what, can we just schedule an appointment instead?"
+    },
+    {
+      "t": "01:16:14",
+      "speaker": "PATIENT",
+      "text": "Sure, my date of birth is August 14, 1993."
+    },
+    {
+      "t": "01:16:15",
+      "speaker": "AGENT",
+      "text": "Please share your date of birth. Please share your date of birth."
+    },
+    {
+      "t": "01:16:25",
+      "speaker": "AGENT",
+      "text": "Please tell me your full name, first and last, and your date of birth."
+    },
+    {
+      "t": "01:16:26",
+      "speaker": "PATIENT",
+      "text": "Right, sorry, it's Kevin Wu, and my date of birth is 08/14/1993."
+    },
+    {
+      "t": "01:16:42",
+      "speaker": "PATIENT",
+      "text": "Yep, that\u2019s correct. Now, can we go ahead and lock in an appointment for next week?"
+    },
+    {
+      "t": "01:16:42",
+      "speaker": "AGENT",
+      "text": "I have your name as Kevin Wu and your date of birth as August 14th, 1993. Is that correct?"
+    },
+    {
+      "t": "01:16:52",
+      "speaker": "AGENT",
+      "text": "und Normen."
+    },
+    {
+      "t": "01:16:52",
+      "speaker": "PATIENT",
+      "text": "Sure, but actually, before we do that, can you check if my prescription is ready or not?"
+    },
+    {
+      "t": "01:17:06",
+      "speaker": "AGENT",
+      "text": "Please call the pharmacy or your prescribing doctor's office to check on the prescription status."
+    },
+    {
+      "t": "01:17:06",
+      "speaker": "PATIENT",
+      "text": "Wait, hold on, I thought I was talking to the doctor\u2019s office. Aren\u2019t you able to see my records or schedule me in?"
+    },
+    {
+      "t": "01:17:20",
+      "speaker": "PATIENT",
+      "text": "Oh, okay, let's just go ahead and set up that appointment then."
+    },
+    {
+      "t": "01:17:21",
+      "speaker": "AGENT",
+      "text": "I'm not able to check your records here. If you want to schedule, I can take your appointment request."
+    },
+    {
+      "t": "01:17:31",
+      "speaker": "PATIENT",
+      "text": "Let's go with Monday morning\u2014actually, wait, no, maybe Wednesday afternoon. Which one\u2019s more open?"
+    },
+    {
+      "t": "01:17:32",
+      "speaker": "AGENT",
+      "text": "Sure. What day next week works best for you, and do you prefer morning or afternoon?"
+    },
+    {
+      "t": "01:17:44",
+      "speaker": "PATIENT",
+      "text": "Great, let\u2019s lock that in, and if there\u2019s a slot earlier, I\u2019ll take it."
+    },
+    {
+      "t": "01:17:45",
+      "speaker": "AGENT",
+      "text": "Wednesday afternoon sounds good. I'll check openings for that."
+    },
+    {
+      "t": "01:17:58",
+      "speaker": "AGENT",
+      "text": "I'll need one appointment time to schedule for Wednesday afternoon. What time works best if I find one?"
+    },
+    {
+      "t": "01:17:58",
+      "speaker": "PATIENT",
+      "text": "Let\u2019s go with around 2 PM, or close to that if possible."
+    },
+    {
+      "t": "01:18:06",
+      "speaker": "PATIENT",
+      "text": "Alright, I'm ready. Let me know what you find."
+    },
+    {
+      "t": "01:18:06",
+      "speaker": "AGENT",
+      "text": "one moment"
+    },
+    {
+      "t": "01:18:14",
+      "speaker": "AGENT",
+      "text": "Sure, I'll help with that."
+    },
+    {
+      "t": "01:18:15",
+      "speaker": "PATIENT",
+      "text": "Got it, I\u2019m waiting. Let me know if that 2 PM slot or something close is open."
+    },
+    {
+      "t": "01:18:25",
+      "speaker": "PATIENT",
+      "text": "Oh,"
+    },
+    {
+      "t": "01:18:26",
+      "speaker": "AGENT",
+      "text": "Connecting you to a representative. Please wait."
+    },
+    {
+      "t": "01:18:26",
+      "speaker": "AGENT",
+      "text": "BEEP"
+    },
+    {
+      "t": "01:18:26",
+      "speaker": "PATIENT",
+      "text": "Hi, just checking in\u2014did we get"
+    },
+    {
+      "t": "01:18:31",
+      "speaker": "PATIENT",
+      "text": "Wait, hold on, I still need to confirm that appointment time!"
+    },
+    {
+      "t": "01:18:32",
+      "speaker": "AGENT",
+      "text": "Hello. You've reached the Pretty Good AI test line. Goodbye."
+    }
+  ]
+}

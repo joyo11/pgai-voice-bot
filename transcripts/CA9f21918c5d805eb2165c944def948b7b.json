@@ -1,0 +1,171 @@
+{
+  "call_sid": "CA9f21918c5d805eb2165c944def948b7b",
+  "scenario": "schedule_basic",
+  "turns": [
+    {
+      "t": "00:11:21",
+      "speaker": "PATIENT",
+      "text": "Hi, I'm calling to book a routine check-up appointment for next week, ideally in the"
+    },
+    {
+      "t": "00:11:22",
+      "speaker": "AGENT",
+      "text": "Esta llamada puede ser grabada para motivos de calidad y entrenamiento. Para Espa\u00f1ol, oprima el 2."
+    },
+    {
+      "t": "00:11:23",
+      "speaker": "PATIENT",
+      "text": "Sure, I\u2019m ready. When would be the earliest morning"
+    },
+    {
+      "t": "00:11:24",
+      "speaker": "AGENT",
+      "text": "Thanks for"
+    },
+    {
+      "t": "00:11:26",
+      "speaker": "PATIENT",
+      "text": "Hi, I'm calling to schedule a routine check-up for next week, preferably in the morning."
+    },
+    {
+      "t": "00:11:26",
+      "speaker": "AGENT",
+      "text": "Bye. Hup."
+    },
+    {
+      "t": "00:11:28",
+      "speaker": "AGENT",
+      "text": "Okay"
+    },
+    {
+      "t": "00:11:28",
+      "speaker": "PATIENT",
+      "text": "I'm looking for a morning appointment, maybe sometime next week. Do you have any openings,"
+    },
+    {
+      "t": "00:11:29",
+      "speaker": "AGENT",
+      "text": "Bye."
+    },
+    {
+      "t": "00:11:30",
+      "speaker": "PATIENT",
+      "text": "Sure, my name's Daniel Carter, and my date of birth is April 12, 1989."
+    },
+    {
+      "t": "00:11:40",
+      "speaker": "AGENT",
+      "text": "I'm sorry, but I can't"
+    },
+    {
+      "t": "00:11:49",
+      "speaker": "PATIENT",
+      "text": "Oh, I think there might be a mix-up. I just need to book a routine check-up appointment. Could you tell me what morning slots you have available next week?"
+    },
+    {
+      "t": "00:11:53",
+      "speaker": "AGENT",
+      "text": "see enough to help with that yet. If you want, I can create a demo patient profile with your first and last name so we can continue."
+    },
+    {
+      "t": "00:12:03",
+      "speaker": "AGENT",
+      "text": "We have openings next week. Do you know of a preferred morning day?"
+    },
+    {
+      "t": "00:12:04",
+      "speaker": "PATIENT",
+      "text": "Monday morning would be great if possible. What times do you have available then?"
+    },
+    {
+      "t": "00:12:19",
+      "speaker": "AGENT",
+      "text": "I can help with that, but I need to create a demo patient profile first, so we can proceed. If you'd like, just tell me your first and last name and I'll set that up."
+    },
+    {
+      "t": "00:12:19",
+      "speaker": "PATIENT",
+      "text": "I already gave my name\u2014Daniel Carter. Could you go ahead and find the appointment openings for Monday morning now?"
+    },
+    {
+      "t": "00:12:30",
+      "speaker": "PATIENT",
+      "text": "Great, thanks. What times do you have available?"
+    },
+    {
+      "t": "00:12:30",
+      "speaker": "AGENT",
+      "text": "I'll check the Monday morning openings for you."
+    },
+    {
+      "t": "00:12:44",
+      "speaker": "AGENT",
+      "text": "Your patient profile has been created successfully for demo purposes. I have your date of birth as 7-4-2-0-0-0. How may I help you today?"
+    },
+    {
+      "t": "00:12:44",
+      "speaker": "PATIENT",
+      "text": "Wait, that's not correct. My date of birth is April 12, 1989. Could you update that and let me know what Monday morning appointments are open?"
+    },
+    {
+      "t": "00:12:58",
+      "speaker": "PATIENT",
+      "text": "Thanks, I'll hold on."
+    },
+    {
+      "t": "00:12:58",
+      "speaker": "AGENT",
+      "text": "I'll update that and check Monday morning openings."
+    },
+    {
+      "t": "00:13:07",
+      "speaker": "PATIENT",
+      "text": "I\u2019m here now, so let\u2019s go ahead. What times do you see for Monday morning?"
+    },
+    {
+      "t": "00:13:07",
+      "speaker": "AGENT",
+      "text": "Sure. If you want to continue later, just let me know."
+    },
+    {
+      "t": "00:13:26",
+      "speaker": "AGENT",
+      "text": "Monday morning has one opening I can see right now with Dr. Zignu Lukosky. It is Monday, June 22nd at 2.30 p.m. If you want, I can book it."
+    },
+    {
+      "t": "00:13:27",
+      "speaker": "PATIENT",
+      "text": "Hmm, 2:30 p.m. is actually in the afternoon. I was really hoping for a morning slot. Are there any morning times available next week, maybe Tuesday or Wednesday?"
+    },
+    {
+      "t": "00:13:51",
+      "speaker": "AGENT",
+      "text": "Tuesday morning has several openings. The earliest one is Tuesday, June 23rd at 9 a.m. with Dr. Zydniew Likoski. If you want, I can also check Wednesday morning."
+    },
+    {
+      "t": "00:13:51",
+      "speaker": "PATIENT",
+      "text": "Tuesday at 9 a.m. sounds good. Let's go ahead and confirm that appointment, please."
+    },
+    {
+      "t": "00:14:13",
+      "speaker": "PATIENT",
+      "text": "Got it, thank you. I\u2019ll be there. Take care."
+    },
+    {
+      "t": "00:14:14",
+      "speaker": "AGENT",
+      "text": "You're booked for Tuesday, June 23rd at 9 a.m. Please bring your government-issued photo ID and insurance card. If you have them, bring a list of current medications and any imaging discs."
+    },
+    {
+      "t": "00:14:21",
+      "speaker": "PATIENT",
+      "text": "Thanks again. Bye now."
+    },
+    {
+      "t": "00:14:22",
+      "speaker": "AGENT",
+      "text": "You're welcome. Take care."
+    }
+  ]
+}

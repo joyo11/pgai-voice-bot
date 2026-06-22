@@ -1,0 +1,51 @@
+{
+  "call_sid": "CA4942e7c5e7c4b2acd8bcb0ded76058a3",
+  "scenario": "insurance",
+  "turns": [
+    {
+      "t": "01:30:06",
+      "speaker": "AGENT",
+      "text": "This call may be recorded for quality and training purposes."
+    },
+    {
+      "t": "01:30:13",
+      "speaker": "AGENT",
+      "text": "Thanks for calling pivot point orthopedics part of pretty good. Am I speaking with Daniel?"
+    },
+    {
+      "t": "01:30:13",
+      "speaker": "PATIENT",
+      "text": "Hi, um, no, this is Angela White. I'm calling to check if you accept Blue Cross Blue Shield PPO and if a visit would be covered."
+    },
+    {
+      "t": "01:30:25",
+      "speaker": "PATIENT",
+      "text": "Thanks, I appreciate it."
+    },
+    {
+      "t": "01:30:28",
+      "speaker": "AGENT",
+      "text": "Let me check that for you."
+    },
+    {
+      "t": "01:30:38",
+      "speaker": "PATIENT",
+      "text": "Alright, I'm waiting."
+    },
+    {
+      "t": "01:30:39",
+      "speaker": "AGENT",
+      "text": "connecting you to a representative. Please wait."
+    },
+    {
+      "t": "01:30:45",
+      "speaker": "PATIENT",
+      "text": "Wait, that's odd. I\u2019m actually calling to find out about my insurance coverage. Could we go over that real quick?"
+    },
+    {
+      "t": "01:30:45",
+      "speaker": "AGENT",
+      "text": "Hello, you've reached the Pretty Good AI test line. Goodbye."
+    }
+  ]
+}

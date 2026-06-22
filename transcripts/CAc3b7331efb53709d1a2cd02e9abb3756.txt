@@ -1,0 +1,26 @@
+Call: CAc3b7331efb53709d1a2cd02e9abb3756
+Scenario: edge_ambiguous
+==================================================
+[01:12:59] AGENT: Esta llamada puede ser grabada para propósitos de calidad y entrenamiento. Para Español, oprima el 2.
+[01:13:05] AGENT: Thanks for calling pivot point orthopedics part of pretty good AI am I speaking with Daniel
+[01:13:05] PATIENT: Hi, um, no, this is Lisa Romano. I'm calling because, yeah, I need to come in for the thing.
+[01:13:18] PATIENT: Oh, sure, it's December 1st, 1977.
+[01:13:19] AGENT: Please tell me your date of birth. Please tell me your date of birth.
+[01:13:33] PATIENT: Yeah, that's right.
+[01:13:34] AGENT: I had your name as Lisa Romano and your date of birth as December 1st, 1977. Is that correct?
+[01:13:49] PATIENT: Uh, yeah, I think that's fine. The number should be the same as the one I'm calling from.
+[01:13:50] AGENT: Do you want to use the phone number on file to look up your record?
+[01:13:59] AGENT: please tell me the phone number on file.
+[01:13:59] PATIENT: Oh, um, you know, I don’t have it memorized right now. Could we maybe check it another way?
+[01:14:11] AGENT: Thanks, Lisa. I'm going to help today.
+[01:14:13] PATIENT: So, I need to come in for that appointment, you know, the thing we talked about before. I'm not sure exactly which one it was.
+[01:14:28] AGENT: I can help with that. I need to identify the appointment first, then I can look it up.
+[01:14:28] PATIENT: Yeah, um, I think it was something to do with my knee or maybe my shoulder, I'm not totally sure.
+[01:14:41] AGENT: Please tell me your date of birth.
+[01:14:41] PATIENT: Yeah, sure, it’s December 1st, 1977.
+[01:14:52] PATIENT: Oh, right, my full name is Lisa Romano, and my date of birth is December 1st, 1977.
+[01:14:52] AGENT: Please tell me your full name and date of birth.
+[01:15:11] AGENT: Connecting you to a representative. Please wait.
+[01:15:11] PATIENT: Oh, all right, I’ll hold on.
+[01:15:17] PATIENT: Wait, I think there's a mix-up. I'm calling about my appointment. Hello?
+[01:15:17] AGENT: Hello, you've reached the pretty good AI test line. Goodbye.

@@ -1,0 +1,20 @@
+Call: CA9c2e22a60a7647c7f90bbc32fc4dd185
+Scenario: cancel
+==================================================
+[00:16:53] AGENT: This call may be recorded for quality and training purposes.
+[00:17:00] PATIENT: Hi, um, actually this is Robert Lin. I'm calling to cancel an appointment I have coming up, and I just want to make sure it’s fully cancelled.
+[00:17:00] AGENT: Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI. Am I speaking with Daniel?
+[00:17:13] PATIENT: Sure, it's January 5th, 1972.
+[00:17:16] AGENT: Please tell me your date of birth.
+[00:17:24] PATIENT: Sure, my full name is Robert Lin.
+[00:17:24] AGENT: Please tell me your full name first and last one more time.
+[00:17:32] AGENT: Please tell me your last name and date of birth.
+[00:17:32] PATIENT: My last name is Lin, and my date of birth is January 5th, 1972.
+[00:17:45] PATIENT: Sure, it's Robert, R-O-B-E-R-T, and Lin, L-I-N.
+[00:17:45] AGENT: Please spell your first name and last name for me.
+[00:17:57] AGENT: please spell your last name again and include your date of birth.
+[00:17:58] PATIENT: Sure, my last name is Lin, L-I-N, and my date of birth is January 5th, 1972.
+[00:18:12] AGENT: Do you want to use a phone number to look up your record?
+[00:18:12] PATIENT: If that helps, sure. The number you have on file should be the same one I’m calling from now.
+[00:18:22] AGENT: Please tell me the phone number on file.
+[00:18:23] PATIENT: I’m sorry, I don’t have it memorized right now. Maybe you can pull it up from the number I’m calling from?

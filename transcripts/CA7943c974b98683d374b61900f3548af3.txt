@@ -1,0 +1,23 @@
+Call: CA7943c974b98683d374b61900f3548af3
+Scenario: edge_multi
+==================================================
+[01:19:07] PATIENT: Hi, I'm calling
+[01:19:09] AGENT: This call may be recorded for quality and training purposes.
+[01:19:14] AGENT: Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI. I speak of a Daniel.
+[01:19:15] PATIENT: Hi, I'm Nadia Hassan. I need to do three things: book an appointment, get a medication refill, and confirm your office hours.
+[01:19:26] AGENT: Please tell me your date of birth.
+[01:19:27] PATIENT: Sure, it's February 27th, 1985.
+[01:19:42] PATIENT: Yes, that's correct. Now, can we go ahead and set up that appointment first?
+[01:19:43] AGENT: I have your name as Nadia Hassan, and your date of birth as February 27th, 1985. Is that correct?
+[01:19:51] PATIENT: No problem, take your time.
+[01:19:53] AGENT: One moment.
+[01:20:06] PATIENT: Yes, that works for me. Please go ahead and use that.
+[01:20:06] AGENT: Do you want to use the phone number on file to look up your record?
+[01:20:26] AGENT: I have your phone number as 929-433-7408 and your date of birth is February 27th, 1985. Is that correct?
+[01:20:26] PATIENT: Actually, that’s not my number. Let me give you the correct one if you need it. But can we start with getting that appointment set?
+[01:20:38] AGENT: Please give me the phone number you have on file.
+[01:20:39] PATIENT: Sure, the number on file should be 347-890-5620.
+[01:20:54] PATIENT: All right, I’ll hold on.
+[01:20:55] AGENT: Connecting you to a representative. Please wait.
+[01:21:00] AGENT: Hello. You've reached the Pretty Good AI test line. Goodbye.
+[01:21:00] PATIENT: Wait, I'm just trying to book an appointment, get a refill, and confirm the office hours. Could we please go back and finish that?

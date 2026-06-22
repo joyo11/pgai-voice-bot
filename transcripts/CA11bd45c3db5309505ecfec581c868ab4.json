@@ -1,0 +1,166 @@
+{
+  "call_sid": "CA11bd45c3db5309505ecfec581c868ab4",
+  "scenario": "edge_weekend",
+  "turns": [
+    {
+      "t": "01:07:30",
+      "speaker": "AGENT",
+      "text": "Esta llamada puede ser grabada para motivos de calidad y entrenamiento. Para Espa\u00f1ol, oprima el 2."
+    },
+    {
+      "t": "01:07:38",
+      "speaker": "PATIENT",
+      "text": "Hi, no, this is Tom Becker. I'm calling to set up an appointment for this Sunday at 10 a.m."
+    },
+    {
+      "t": "01:07:38",
+      "speaker": "AGENT",
+      "text": "Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI. Am I speaking with Daniel?"
+    },
+    {
+      "t": "01:07:49",
+      "speaker": "PATIENT",
+      "text": "Sure, my date of birth is June 6, 1990."
+    },
+    {
+      "t": "01:07:49",
+      "speaker": "AGENT",
+      "text": "Please tell me your date of birth."
+    },
+    {
+      "t": "01:08:00",
+      "speaker": "AGENT",
+      "text": "Please tell me your full name, first and last."
+    },
+    {
+      "t": "01:08:02",
+      "speaker": "PATIENT",
+      "text": "My full name is Tom Becker, and my date of birth is 06/06/1990."
+    },
+    {
+      "t": "01:08:02",
+      "speaker": "AGENT",
+      "text": "and your day of birth."
+    },
+    {
+      "t": "01:08:19",
+      "speaker": "PATIENT",
+      "text": "Yes, that's correct."
+    },
+    {
+      "t": "01:08:20",
+      "speaker": "AGENT",
+      "text": "I have your name as Tom Becker and your date of birth is June 6th, 1990. Please confirm that is correct."
+    },
+    {
+      "t": "01:08:29",
+      "speaker": "AGENT",
+      "text": "Do you want to use a phone number on file for the lookup?"
+    },
+    {
+      "t": "01:08:30",
+      "speaker": "PATIENT",
+      "text": "Yes, please go ahead and use the phone number on file."
+    },
+    {
+      "t": "01:08:39",
+      "speaker": "PATIENT",
+      "text": "Oh, I was hoping you could look it up on your end. Let me know if you need me to provide it."
+    },
+    {
+      "t": "01:08:40",
+      "speaker": "AGENT",
+      "text": "please give me the phone number you have on file."
+    },
+    {
+      "t": "01:08:49",
+      "speaker": "AGENT",
+      "text": "please provide the phone number you have on file."
+    },
+    {
+      "t": "01:08:50",
+      "speaker": "PATIENT",
+      "text": "Alright, the phone number I have is 555-234-7890."
+    },
+    {
+      "t": "01:09:12",
+      "speaker": "PATIENT",
+      "text": "Yes, that's correct. Now, can we go ahead and lock in that appointment for this Sunday at 10 a.m.?"
+    },
+    {
+      "t": "01:09:12",
+      "speaker": "AGENT",
+      "text": "I have your phone number as 555-234-7890 and your date of birth as June 6th, 1990. Is that correct?"
+    },
+    {
+      "t": "01:09:24",
+      "speaker": "PATIENT",
+      "text": "Sure, no problem, I'll hold."
+    },
+    {
+      "t": "01:09:25",
+      "speaker": "AGENT",
+      "text": "I still need to finish the check-in first. Please hold for a moment."
+    },
+    {
+      "t": "01:09:31",
+      "speaker": "PATIENT",
+      "text": "Alright, I'm still here."
+    },
+    {
+      "t": "01:09:32",
+      "speaker": "AGENT",
+      "text": "One moment."
+    },
+    {
+      "t": "01:09:38",
+      "speaker": "PATIENT",
+      "text": "Got it, I'll wait."
+    },
+    {
+      "t": "01:09:39",
+      "speaker": "AGENT",
+      "text": "Please hold for a moment."
+    },
+    {
+      "t": "01:09:44",
+      "speaker": "PATIENT",
+      "text": "No problem, I'm here."
+    },
+    {
+      "t": "01:09:44",
+      "speaker": "AGENT",
+      "text": "Please hold"
+    },
+    {
+      "t": "01:09:50",
+      "speaker": "PATIENT",
+      "text": "Sure, I'm holding."
+    },
+    {
+      "t": "01:09:51",
+      "speaker": "AGENT",
+      "text": "Please hold for a moment."
+    },
+    {
+      "t": "01:09:56",
+      "speaker": "PATIENT",
+      "text": "Alright, I'm still here."
+    },
+    {
+      "t": "01:09:57",
+      "speaker": "AGENT",
+      "text": "Please hold."
+    },
+    {
+      "t": "01:10:09",
+      "speaker": "AGENT",
+      "text": "I can't proceed further right now, but I can make sure our clinic support team follows up with you."
+    },
+    {
+      "t": "01:10:10",
+      "speaker": "PATIENT",
+      "text": "Actually, I'd really like to get that appointment for this Sunday at 10 a.m."
+    }
+  ]
+}

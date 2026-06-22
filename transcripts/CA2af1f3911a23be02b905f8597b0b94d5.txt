@@ -1,0 +1,20 @@
+Call: CA2af1f3911a23be02b905f8597b0b94d5
+Scenario: cancel
+==================================================
+[01:31:20] AGENT: Esta llamada puede ser grabada para propósitos de calidad y entrenamiento. Para español, oprima el 2.
+[01:31:26] AGENT: Thanks for calling pivot point orthopedics part of pretty good AI am I speaking with Daniel
+[01:31:27] PATIENT: Oh, sorry, no, this is Robert Lin. I'm calling to cancel my upcoming appointment, and I just want to confirm that it's fully canceled.
+[01:31:42] PATIENT: Sure, my date of birth is January 5th, 1972.
+[01:31:42] AGENT: Please tell me your date of birth. Please tell me your date of birth.
+[01:31:52] AGENT: Please spell your first and last name.
+[01:31:53] PATIENT: Of course. First name: R-O-B-E-R-T, last name: L-I-N.
+[01:32:10] PATIENT: Yes, that’s correct. Could you confirm the appointment’s canceled now?
+[01:32:10] AGENT: I have your name as Robert Lynn and your date of birth as January 5th, 1972, is that correct?
+[01:32:21] PATIENT: Sure, the phone number on file should be 555-239-7861.
+[01:32:22] AGENT: Please tell me the phone number you have on file.
+[01:32:42] PATIENT: Yes, that’s all correct. Can you confirm that my appointment is fully canceled now?
+[01:32:43] AGENT: I have your number as 555-239-7861 and your date of birth is January 5th, 1972. Is that correct?
+[01:32:56] PATIENT: Okay, I'll hold on.
+[01:32:57] AGENT: Connecting you to a representative. Please wait.
+[01:33:02] AGENT: Hello, you've reached the Pretty Good AI test line. Goodbye.
+[01:33:02] PATIENT: Wait, I’m a bit confused. I was trying to confirm my appointment cancellation. Could you help me with that, please?

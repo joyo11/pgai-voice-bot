@@ -1,0 +1,91 @@
+{
+  "call_sid": "CA2af1f3911a23be02b905f8597b0b94d5",
+  "scenario": "cancel",
+  "turns": [
+    {
+      "t": "01:31:20",
+      "speaker": "AGENT",
+      "text": "Esta llamada puede ser grabada para prop\u00f3sitos de calidad y entrenamiento. Para espa\u00f1ol, oprima el 2."
+    },
+    {
+      "t": "01:31:26",
+      "speaker": "AGENT",
+      "text": "Thanks for calling pivot point orthopedics part of pretty good AI am I speaking with Daniel"
+    },
+    {
+      "t": "01:31:27",
+      "speaker": "PATIENT",
+      "text": "Oh, sorry, no, this is Robert Lin. I'm calling to cancel my upcoming appointment, and I just want to confirm that it's fully canceled."
+    },
+    {
+      "t": "01:31:42",
+      "speaker": "PATIENT",
+      "text": "Sure, my date of birth is January 5th, 1972."
+    },
+    {
+      "t": "01:31:42",
+      "speaker": "AGENT",
+      "text": "Please tell me your date of birth. Please tell me your date of birth."
+    },
+    {
+      "t": "01:31:52",
+      "speaker": "AGENT",
+      "text": "Please spell your first and last name."
+    },
+    {
+      "t": "01:31:53",
+      "speaker": "PATIENT",
+      "text": "Of course. First name: R-O-B-E-R-T, last name: L-I-N."
+    },
+    {
+      "t": "01:32:10",
+      "speaker": "PATIENT",
+      "text": "Yes, that\u2019s correct. Could you confirm the appointment\u2019s canceled now?"
+    },
+    {
+      "t": "01:32:10",
+      "speaker": "AGENT",
+      "text": "I have your name as Robert Lynn and your date of birth as January 5th, 1972, is that correct?"
+    },
+    {
+      "t": "01:32:21",
+      "speaker": "PATIENT",
+      "text": "Sure, the phone number on file should be 555-239-7861."
+    },
+    {
+      "t": "01:32:22",
+      "speaker": "AGENT",
+      "text": "Please tell me the phone number you have on file."
+    },
+    {
+      "t": "01:32:42",
+      "speaker": "PATIENT",
+      "text": "Yes, that\u2019s all correct. Can you confirm that my appointment is fully canceled now?"
+    },
+    {
+      "t": "01:32:43",
+      "speaker": "AGENT",
+      "text": "I have your number as 555-239-7861 and your date of birth is January 5th, 1972. Is that correct?"
+    },
+    {
+      "t": "01:32:56",
+      "speaker": "PATIENT",
+      "text": "Okay, I'll hold on."
+    },
+    {
+      "t": "01:32:57",
+      "speaker": "AGENT",
+      "text": "Connecting you to a representative. Please wait."
+    },
+    {
+      "t": "01:33:02",
+      "speaker": "AGENT",
+      "text": "Hello, you've reached the Pretty Good AI test line. Goodbye."
+    },
+    {
+      "t": "01:33:02",
+      "speaker": "PATIENT",
+      "text": "Wait, I\u2019m a bit confused. I was trying to confirm my appointment cancellation. Could you help me with that, please?"
+    }
+  ]
+}

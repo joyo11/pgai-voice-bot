@@ -1,0 +1,35 @@
+Call: CA29f5cab9ab2a595e76a0d0592c36443b
+Scenario: edge_interrupt
+==================================================
+[01:15:53] PATIENT: Hi, I’m calling because I need a refill on my
+[01:15:55] AGENT: Esta llamada puede ser grabada para motivos de calidad y entrenamiento. Para Español, oprima el 2.
+[01:16:00] AGENT: Thanks for calling pivot point orthopedics part of pretty good AI and I speak you with Daniel
+[01:16:01] PATIENT: Oh, hey, no, this is Kevin Wu. Actually, I was hoping to get a refill on my prescription—wait, you know what, can we just schedule an appointment instead?
+[01:16:14] PATIENT: Sure, my date of birth is August 14, 1993.
+[01:16:15] AGENT: Please share your date of birth. Please share your date of birth.
+[01:16:25] AGENT: Please tell me your full name, first and last, and your date of birth.
+[01:16:26] PATIENT: Right, sorry, it's Kevin Wu, and my date of birth is 08/14/1993.
+[01:16:42] PATIENT: Yep, that’s correct. Now, can we go ahead and lock in an appointment for next week?
+[01:16:42] AGENT: I have your name as Kevin Wu and your date of birth as August 14th, 1993. Is that correct?
+[01:16:52] AGENT: und Normen.
+[01:16:52] PATIENT: Sure, but actually, before we do that, can you check if my prescription is ready or not?
+[01:17:06] AGENT: Please call the pharmacy or your prescribing doctor's office to check on the prescription status.
+[01:17:06] PATIENT: Wait, hold on, I thought I was talking to the doctor’s office. Aren’t you able to see my records or schedule me in?
+[01:17:20] PATIENT: Oh, okay, let's just go ahead and set up that appointment then.
+[01:17:21] AGENT: I'm not able to check your records here. If you want to schedule, I can take your appointment request.
+[01:17:31] PATIENT: Let's go with Monday morning—actually, wait, no, maybe Wednesday afternoon. Which one’s more open?
+[01:17:32] AGENT: Sure. What day next week works best for you, and do you prefer morning or afternoon?
+[01:17:44] PATIENT: Great, let’s lock that in, and if there’s a slot earlier, I’ll take it.
+[01:17:45] AGENT: Wednesday afternoon sounds good. I'll check openings for that.
+[01:17:58] AGENT: I'll need one appointment time to schedule for Wednesday afternoon. What time works best if I find one?
+[01:17:58] PATIENT: Let’s go with around 2 PM, or close to that if possible.
+[01:18:06] PATIENT: Alright, I'm ready. Let me know what you find.
+[01:18:06] AGENT: one moment
+[01:18:14] AGENT: Sure, I'll help with that.
+[01:18:15] PATIENT: Got it, I’m waiting. Let me know if that 2 PM slot or something close is open.
+[01:18:25] PATIENT: Oh,
+[01:18:26] AGENT: Connecting you to a representative. Please wait.
+[01:18:26] AGENT: BEEP
+[01:18:26] PATIENT: Hi, just checking in—did we get
+[01:18:31] PATIENT: Wait, hold on, I still need to confirm that appointment time!
+[01:18:32] AGENT: Hello. You've reached the Pretty Good AI test line. Goodbye.

@@ -1,0 +1,36 @@
+Call: CA9f21918c5d805eb2165c944def948b7b
+Scenario: schedule_basic
+==================================================
+[00:11:21] PATIENT: Hi, I'm calling to book a routine check-up appointment for next week, ideally in the
+[00:11:22] AGENT: Esta llamada puede ser grabada para motivos de calidad y entrenamiento. Para Español, oprima el 2.
+[00:11:23] PATIENT: Sure, I’m ready. When would be the earliest morning
+[00:11:24] AGENT: Thanks for
+[00:11:26] PATIENT: Hi, I'm calling to schedule a routine check-up for next week, preferably in the morning.
+[00:11:26] AGENT: Bye. Hup.
+[00:11:28] AGENT: Okay
+[00:11:28] PATIENT: I'm looking for a morning appointment, maybe sometime next week. Do you have any openings,
+[00:11:29] AGENT: Bye.
+[00:11:30] PATIENT: Sure, my name's Daniel Carter, and my date of birth is April 12, 1989.
+[00:11:40] AGENT: I'm sorry, but I can't
+[00:11:49] PATIENT: Oh, I think there might be a mix-up. I just need to book a routine check-up appointment. Could you tell me what morning slots you have available next week?
+[00:11:53] AGENT: see enough to help with that yet. If you want, I can create a demo patient profile with your first and last name so we can continue.
+[00:12:03] AGENT: We have openings next week. Do you know of a preferred morning day?
+[00:12:04] PATIENT: Monday morning would be great if possible. What times do you have available then?
+[00:12:19] AGENT: I can help with that, but I need to create a demo patient profile first, so we can proceed. If you'd like, just tell me your first and last name and I'll set that up.
+[00:12:19] PATIENT: I already gave my name—Daniel Carter. Could you go ahead and find the appointment openings for Monday morning now?
+[00:12:30] PATIENT: Great, thanks. What times do you have available?
+[00:12:30] AGENT: I'll check the Monday morning openings for you.
+[00:12:44] AGENT: Your patient profile has been created successfully for demo purposes. I have your date of birth as 7-4-2-0-0-0. How may I help you today?
+[00:12:44] PATIENT: Wait, that's not correct. My date of birth is April 12, 1989. Could you update that and let me know what Monday morning appointments are open?
+[00:12:58] PATIENT: Thanks, I'll hold on.
+[00:12:58] AGENT: I'll update that and check Monday morning openings.
+[00:13:07] PATIENT: I’m here now, so let’s go ahead. What times do you see for Monday morning?
+[00:13:07] AGENT: Sure. If you want to continue later, just let me know.
+[00:13:26] AGENT: Monday morning has one opening I can see right now with Dr. Zignu Lukosky. It is Monday, June 22nd at 2.30 p.m. If you want, I can book it.
+[00:13:27] PATIENT: Hmm, 2:30 p.m. is actually in the afternoon. I was really hoping for a morning slot. Are there any morning times available next week, maybe Tuesday or Wednesday?
+[00:13:51] AGENT: Tuesday morning has several openings. The earliest one is Tuesday, June 23rd at 9 a.m. with Dr. Zydniew Likoski. If you want, I can also check Wednesday morning.
+[00:13:51] PATIENT: Tuesday at 9 a.m. sounds good. Let's go ahead and confirm that appointment, please.
+[00:14:13] PATIENT: Got it, thank you. I’ll be there. Take care.
+[00:14:14] AGENT: You're booked for Tuesday, June 23rd at 9 a.m. Please bring your government-issued photo ID and insurance card. If you have them, bring a list of current medications and any imaging discs.
+[00:14:21] PATIENT: Thanks again. Bye now.
+[00:14:22] AGENT: You're welcome. Take care.

@@ -1,0 +1,18 @@
+Call: CAe2ef3fb18fe29d2e65c84c4ebe6d9cd3
+Scenario: reschedule
+==================================================
+[00:14:52] AGENT: Esta llamada puede ser grabada para motivos de calidad y entrenamiento. Para español, oprima el 2.
+[00:15:00] PATIENT: Hi, no, this is Priya Shah. I'm actually calling because I need to reschedule my appointment that I have for this Thursday.
+[00:15:00] AGENT: Thanks for calling pivot point orthopedics part of pretty good AI am I speaking with Daniel
+[00:15:12] AGENT: Please tell me your date of birth. Please tell me your date of birth.
+[00:15:12] PATIENT: Sure, my date of birth is September 30th, 1995.
+[00:15:29] PATIENT: Yes, that’s correct.
+[00:15:31] AGENT: I have your name as Priya Shah and your date of birth as September 30th, 1995. Is that correct?
+[00:15:39] AGENT: Do you want to use the phone number on file to look up your record?
+[00:15:39] PATIENT: Yes, that works for me.
+[00:15:58] PATIENT: Yes, that’s correct. That’s my number.
+[00:15:59] AGENT: please tell me the phone number on your account. I have your number as 929-433-7408 and your date of birth as September 30, 1995. Is that correct?
+[00:16:11] AGENT: Connecting you to a representative. Please wait.
+[00:16:11] PATIENT: Okay, I'll hold.
+[00:16:16] AGENT: Hello. You've reached the Pretty Good AI test line. Goodbye.
+[00:16:17] PATIENT: Wait, I’m a bit confused. I need to reschedule my appointment. Are you able to help with that?

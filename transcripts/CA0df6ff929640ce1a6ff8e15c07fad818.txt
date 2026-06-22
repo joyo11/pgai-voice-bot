@@ -1,0 +1,19 @@
+Call: CA0df6ff929640ce1a6ff8e15c07fad818
+Scenario: office_hours
+==================================================
+[00:08:17] PATIENT: Hi, I'm calling to check your office hours, especially on weekends, and also
+[00:08:18] AGENT: Esta llamada puede ser grabada para propósitos de calidad y entrenamiento. Para Español, oprima el 2.
+[00:08:19] AGENT: Thanks for calling PIVX.
+[00:08:19] PATIENT: Oh, got it. And can you also let me know the address and what the parking situation is like?
+[00:08:20] AGENT: Thank you.
+[00:08:21] PATIENT: Sure, my name is Sam Park, and I'm just trying to figure out when you're open on weekends and where exactly you're located.
+[00:08:23] AGENT: Help.
+[00:08:24] PATIENT: Thanks, I appreciate it. So could you tell me what time you're open on Saturdays and Sundays, and also the address?
+[00:08:37] PATIENT: I'm asking about the main location, the one on Oak Street, if that helps.
+[00:08:37] AGENT: I can help with that. What clinic location are you asking about?
+[00:08:49] AGENT: I have the main location on Oak Street. One moment while I check the weekend hours and address.
+[00:08:50] PATIENT: Sure, thanks. That'd be great.
+[00:08:59] PATIENT: Oh, okay, I’ll hold on.
+[00:08:59] AGENT: Connecting you to a representative. Please wait.
+[00:09:04] AGENT: Hello, you've reached the pretty good AI test line, goodbye.
+[00:09:04] PATIENT: Wait, I'm actually trying to get the weekend hours and the address. Could you help me with that before we hang up?

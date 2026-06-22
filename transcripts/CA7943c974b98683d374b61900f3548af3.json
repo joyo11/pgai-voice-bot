@@ -1,0 +1,106 @@
+{
+  "call_sid": "CA7943c974b98683d374b61900f3548af3",
+  "scenario": "edge_multi",
+  "turns": [
+    {
+      "t": "01:19:07",
+      "speaker": "PATIENT",
+      "text": "Hi, I'm calling"
+    },
+    {
+      "t": "01:19:09",
+      "speaker": "AGENT",
+      "text": "This call may be recorded for quality and training purposes."
+    },
+    {
+      "t": "01:19:14",
+      "speaker": "AGENT",
+      "text": "Thanks for calling Pivot Point Orthopedics, part of Pretty Good AI. I speak of a Daniel."
+    },
+    {
+      "t": "01:19:15",
+      "speaker": "PATIENT",
+      "text": "Hi, I'm Nadia Hassan. I need to do three things: book an appointment, get a medication refill, and confirm your office hours."
+    },
+    {
+      "t": "01:19:26",
+      "speaker": "AGENT",
+      "text": "Please tell me your date of birth."
+    },
+    {
+      "t": "01:19:27",
+      "speaker": "PATIENT",
+      "text": "Sure, it's February 27th, 1985."
+    },
+    {
+      "t": "01:19:42",
+      "speaker": "PATIENT",
+      "text": "Yes, that's correct. Now, can we go ahead and set up that appointment first?"
+    },
+    {
+      "t": "01:19:43",
+      "speaker": "AGENT",
+      "text": "I have your name as Nadia Hassan, and your date of birth as February 27th, 1985. Is that correct?"
+    },
+    {
+      "t": "01:19:51",
+      "speaker": "PATIENT",
+      "text": "No problem, take your time."
+    },
+    {
+      "t": "01:19:53",
+      "speaker": "AGENT",
+      "text": "One moment."
+    },
+    {
+      "t": "01:20:06",
+      "speaker": "PATIENT",
+      "text": "Yes, that works for me. Please go ahead and use that."
+    },
+    {
+      "t": "01:20:06",
+      "speaker": "AGENT",
+      "text": "Do you want to use the phone number on file to look up your record?"
+    },
+    {
+      "t": "01:20:26",
+      "speaker": "AGENT",
+      "text": "I have your phone number as 929-433-7408 and your date of birth is February 27th, 1985. Is that correct?"
+    },
+    {
+      "t": "01:20:26",
+      "speaker": "PATIENT",
+      "text": "Actually, that\u2019s not my number. Let me give you the correct one if you need it. But can we start with getting that appointment set?"
+    },
+    {
+      "t": "01:20:38",
+      "speaker": "AGENT",
+      "text": "Please give me the phone number you have on file."
+    },
+    {
+      "t": "01:20:39",
+      "speaker": "PATIENT",
+      "text": "Sure, the number on file should be 347-890-5620."
+    },
+    {
+      "t": "01:20:54",
+      "speaker": "PATIENT",
+      "text": "All right, I\u2019ll hold on."
+    },
+    {
+      "t": "01:20:55",
+      "speaker": "AGENT",
+      "text": "Connecting you to a representative. Please wait."
+    },
+    {
+      "t": "01:21:00",
+      "speaker": "AGENT",
+      "text": "Hello. You've reached the Pretty Good AI test line. Goodbye."
+    },
+    {
+      "t": "01:21:00",
+      "speaker": "PATIENT",
+      "text": "Wait, I'm just trying to book an appointment, get a refill, and confirm the office hours. Could we please go back and finish that?"
+    }
+  ]
+}
