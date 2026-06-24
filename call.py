@@ -32,8 +32,16 @@ SID = os.environ["TWILIO_ACCOUNT_SID"]
 TOKEN = os.environ["TWILIO_AUTH_TOKEN"]
 FROM = os.environ["TWILIO_FROM_NUMBER"]
 TARGET = os.environ.get("TARGET_NUMBER", "+18054398008")
-PUBLIC_HOST = os.environ["PUBLIC_HOST"]
+PUBLIC_HOST = os.environ.get("PUBLIC_HOST", "").strip()
 MAX_SECONDS = int(os.environ.get("MAX_CALL_SECONDS", "240"))
+
+# Fail loudly before spending money on a call that would be silent: without a
+# public host the TwiML URL has no host and Twilio can't reach the server.
+if not PUBLIC_HOST:
+    raise SystemExit(
+        "PUBLIC_HOST is not set. Start ngrok, then set PUBLIC_HOST in .env to the "
+        "forwarding host (e.g. abc123.ngrok-free.app) and try again."
+    )
 
 client = Client(SID, TOKEN)
 

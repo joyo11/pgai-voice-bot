@@ -36,7 +36,11 @@ load_dotenv()
 OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY", "")
 REALTIME_MODEL = os.environ.get("REALTIME_MODEL", "gpt-realtime")
 REALTIME_VOICE = os.environ.get("REALTIME_VOICE", "alloy")
-PUBLIC_HOST = os.environ.get("PUBLIC_HOST", "localhost:8000")
+# Host where THIS server is publicly reachable (e.g. the ngrok host). The
+# whole audio path depends on it: if it is blank the Stream URL becomes
+# "wss:///media" with no host, Twilio has nowhere to send audio, and the call
+# is silent with no error. So we treat an empty value as unset and fail loudly.
+PUBLIC_HOST = os.environ.get("PUBLIC_HOST", "").strip()
 
 app = FastAPI()
 
@@ -52,6 +56,11 @@ async def twiml(request: Request):
     The scenario key is passed through as a Stream <Parameter> so the socket
     knows which patient persona to use."""
     scenario = request.query_params.get("scenario", "schedule_basic")
+    if not PUBLIC_HOST:
+        # Loud failure instead of a silent, hostless "wss:///media".
+        msg = "PUBLIC_HOST is not set, cannot build the media stream URL. Set PUBLIC_HOST to your public host (e.g. the ngrok host) and restart the server."
+        print("ERROR:", msg)
+        return PlainTextResponse(content=msg, status_code=500)
     ws_url = f"wss://{PUBLIC_HOST}/media"
     xml = f"""<?xml version="1.0" encoding="UTF-8"?>
 <Response>
